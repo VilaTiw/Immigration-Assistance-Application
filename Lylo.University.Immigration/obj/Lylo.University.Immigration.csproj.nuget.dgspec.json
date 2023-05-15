@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lylo.University.Immigration\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {}
+    "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {}
   },
   "projects": {
-    "D:\\Lylo.University.Immigration\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {
+    "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lylo.University.Immigration\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
+        "projectUniqueName": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
         "projectName": "Lylo.University.Immigration",
-        "projectPath": "D:\\Lylo.University.Immigration\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
+        "projectPath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
         "packagesPath": "C:\\Users\\v_lyl\\.nuget\\packages\\",
-        "outputPath": "D:\\Lylo.University.Immigration\\Lylo.University.Immigration\\obj\\",
+        "outputPath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v_lyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
