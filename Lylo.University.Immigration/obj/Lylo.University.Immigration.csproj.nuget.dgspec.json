@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {}
+    "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {
+    "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
+        "projectUniqueName": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
         "projectName": "Lylo.University.Immigration",
-        "projectPath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
+        "projectPath": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
         "packagesPath": "C:\\Users\\v_lyl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\obj\\",
         "projectStyle": "PackageReference",
@@ -47,6 +47,10 @@
             "Microsoft.ApplicationInsights.AspNetCore": {
               "target": "Package",
               "version": "[2.21.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",

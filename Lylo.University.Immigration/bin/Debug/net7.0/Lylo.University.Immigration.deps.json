@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.ApplicationInsights": "2.21.0",
           "Microsoft.ApplicationInsights.AspNetCore": "2.21.0",
+          "Microsoft.AspNetCore.Authentication.Google": "7.0.5",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "7.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.5",
           "Microsoft.AspNetCore.Identity.UI": "7.0.5",
@@ -157,6 +158,14 @@
           "lib/netstandard2.0/Microsoft.AI.ServerTelemetryChannel.dll": {
             "assemblyVersion": "2.21.0.429",
             "fileVersion": "2.21.0.429"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/7.0.5": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "7.0.5.0",
+            "fileVersion": "7.0.523.17410"
           }
         }
       },
@@ -2884,6 +2893,13 @@
       "sha512": "sha512-7D4oq+9YyagEPx+0kNNOXdG6c7IDM/2d+637nAYKFqdWhNN0IqHZEed0DuG28waj7hBSLM9lBO+B8qQqgfE4rw==",
       "path": "microsoft.applicationinsights.windowsserver.telemetrychannel/2.21.0",
       "hashPath": "microsoft.applicationinsights.windowsserver.telemetrychannel.2.21.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Authentication.Google/7.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-W7GAE+Gor29canssOYuZzTHOPsPX1FjYLlOoqWRA9fw7Hk7JSBo9n682LngXokvICzWKzV0MIuUa+izLmk/VmA==",
+      "path": "microsoft.aspnetcore.authentication.google/7.0.5",
+      "hashPath": "microsoft.aspnetcore.authentication.google.7.0.5.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Cryptography.Internal/7.0.5": {
       "type": "package",

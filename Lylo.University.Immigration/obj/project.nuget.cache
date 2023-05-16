@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vt/5iYWd3a9SFRmouNOeNMQVG9DzH74m9a3RAvfQcJdK0WjJpbR3N2DGm38MCTno29Nm+0BfI2L8UsywsoHV1w==",
+  "dgSpecHash": "l3vEEe+DPp8kf4Qx5HYaoqC7LHzK7pFuHV/2oGbPq9z96h8+zWr9LapOLrlaQkBUydxdiYzt237xoRuVvmAZmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
+  "projectFilePath": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v_lyl\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -14,6 +14,7 @@
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.applicationinsights.perfcountercollector\\2.21.0\\microsoft.applicationinsights.perfcountercollector.2.21.0.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.applicationinsights.windowsserver\\2.21.0\\microsoft.applicationinsights.windowsserver.2.21.0.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.applicationinsights.windowsserver.telemetrychannel\\2.21.0\\microsoft.applicationinsights.windowsserver.telemetrychannel.2.21.0.nupkg.sha512",
+    "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\7.0.5\\microsoft.aspnetcore.authentication.google.7.0.5.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",
     "C:\\Users\\v_lyl\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.4\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.4.nupkg.sha512",
