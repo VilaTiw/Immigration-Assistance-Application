@@ -1,0 +1,281 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+    nav a:hover {
+        text-decoration: underline;
+    }
+
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 20px;
+    text-align: center;
+}
+
+.cta-button {
+    background-color: #FFA500;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+    .cta-button:hover {
+        background-color: #FF8C00;
+        cursor: pointer;
+    }
+
+.services {
+    background-color: #F0F0F0;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+    .services h3 {
+        margin-top: 0;
+    }
+
+    .services ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .services li {
+        flex-basis: 300px;
+        margin: 20px;
+    }
+
+    .services img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .services h4 {
+        margin-top: 20px;
+    }
+
+    .services p {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+footer {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.congrats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 8em;
+    text-align: center;
+}
+
+    .congrats span {
+        color: #fff;
+        margin: 0.1em;
+        animation: congrats 1.5s ease-in-out infinite;
+    }
+
+        .congrats span:nth-child(1) {
+            background: linear-gradient(to right, #FF0099, #493240);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(2) {
+            background: linear-gradient(to right, #DA22FF, #9733EE);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(3) {
+            background: linear-gradient(to right, #ABDCFF, #0396FF);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(4) {
+            background: linear-gradient(to right, #F4D03F, #16A085);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(5) {
+            background: linear-gradient(to right, #F5515F, #A1051D);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(6) {
+            background: linear-gradient(to right, #00C9FF, #92FE9D);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(7) {
+            background: linear-gradient(to right, #FFD3A5, #FD6585);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(8) {
+            background: linear-gradient(to right, #C33764, #1D2671);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(9) {
+            background: linear-gradient(to right, #3a6186, #89253e);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(10) {
+            background: linear-gradient(to right, #FF416C, #FF4B2B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(11) {
+            background: linear-gradient(to right, #fc00ff, #00dbde);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(12) {
+            background: linear-gradient(to right, #00b09b, #96c93d);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(13) {
+            background: linear-gradient(to right, #8e2de2, #4a00e0);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(14) {
+            background: linear-gradient(to right, #00c3ff, #ffff1c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .congrats span:nth-child(15) {
+            background: linear-gradient(to right, #11998e, #38ef7d);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+@keyframes congrats {
+    0% {
+        transform: translateY(0);
+        filter: hue-rotate(0deg);
+    }
+
+    25% {
+        transform: translateY(-50px);
+        filter: hue-rotate(45deg);
+    }
+
+    50% {
+        transform: translateY(0);
+        filter: hue-rotate(90deg);
+    }
+
+    75% {
+        transform: translateY(-25px);
+        filter: hue-rotate(135deg);
+    }
+
+    100% {
+        transform: translateY(0);
+        filter: hue-rotate(180deg);
+    }
+}
+section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+
+.hidden {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100%);
+    transition: all 1s;
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
