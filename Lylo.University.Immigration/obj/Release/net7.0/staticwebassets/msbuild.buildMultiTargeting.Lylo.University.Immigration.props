@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lylo.University.Immigration.props" />
+</Project>
