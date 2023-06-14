@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/immigration-assistance-application/databases/immigration-assistance2",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:LyloUniversityImmigrationContext",
+      "dynamicId": null
+    }
+  }
+}

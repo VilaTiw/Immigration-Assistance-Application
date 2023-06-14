@@ -11,7 +11,7 @@
         "projectName": "Lylo.University.Immigration",
         "projectPath": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\Lylo.University.Immigration.csproj",
         "packagesPath": "C:\\Users\\v_lyl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\obj\\",
+        "outputPath": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v_lyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,9 +84,17 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

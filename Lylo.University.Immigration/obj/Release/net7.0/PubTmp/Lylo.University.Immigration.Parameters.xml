@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="Immigration-Assistance-Application2" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\v_lyl\\Source\\Repos\\Immigration-Assistance-Application\\Lylo\.University\.Immigration\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo\.University\.Immigration\\obj\\Release\\net7\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

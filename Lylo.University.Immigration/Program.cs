@@ -2,10 +2,23 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using Lylo.University.Immigration.Services;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 var configuration = builder.Configuration;
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Exchange API", Version = "v1" });
+});
+
+builder.Services.AddHttpClient();
+builder.Services.AddScoped<ExchangeRateService>();
+
 
 builder.Services.AddAuthentication().AddGoogle(googleOptions =>
 {
@@ -33,6 +46,19 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+app.UseSwagger();
+app.UseSwaggerUI(c =>
+{
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+});
+
+app.MapGet("/exchange-rate", async (HttpContext context, ExchangeRateService exchangeRateService) =>
+{
+    string exchangeRate = await exchangeRateService.GetExchangeRate("UAH", "USD");
+    await context.Response.WriteAsync($"Exchange rate EUR/USD: {exchangeRate}");
+});
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

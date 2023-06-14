@@ -645,3 +645,7 @@ C:\Users\v_lyl\Source\Repos\Immigration-Assistance-Application\Lylo.University.I
 C:\Users\v_lyl\Source\Repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Debug\net7.0\Lylo.University.Immigration.genruntimeconfig.cache
 C:\Users\v_lyl\Source\Repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Debug\net7.0\ref\Lylo.University.Immigration.dll
 C:\Users\v_lyl\Source\Repos\Immigration-Assistance-Application\Lylo.University.Immigration\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
