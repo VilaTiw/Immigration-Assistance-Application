@@ -5,7 +5,7 @@ Project name: Immigration Assistance Application. 🌐
 This project aims to help people with immigration. Provide political protection for people persecuted by the government, education for the young generation, a quality and prosperous life in highly developed countries.
 
 To run a project, you need to first download its files, via a zip folder, or clone the repository to your development environment using a repository link. You need to make sure you have .net 7 installed which is used in this project. If you don't have it, or it's a lower version, you can download it here - https://dotnet.microsoft.com/en-us/download/dotnet/7.0. If you've downloaded .net 7 but still can't run the project, it might be a problem with the development environment you're using, try updating it to the latest version.
-This project uses the following resources: SQL Database, Azure App Service and Application Insights.
+This project uses the following resources: SQL Database, Azure App Service, Application Insights and Azure Computer Vision.
 
 Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/
 
@@ -27,16 +27,13 @@ What is done ✔️:
 - Worked on the frontend, added a picture to the about page, a blue background to the header, added an animation of the page title increasing when the mouse is hovered over, and added a greeting upon successful authorization
 - Added globe animation to page 'About' from Vanta.js (but I need to edit it)
 
-LAB 3 
+## Lab 3:
 I worked on frontend, I have added text scrolling animation and picture
 Illia Bardakov added
 https://github.com/VilaTiw/Immigration-Assistance-Application/pull/1
 https://github.com/bardavkov/bardavkov
-
-What should be done 📑:
--next tasks
-<hr>
-Lab 4
+<br>
+## Lab 4
 Taras Rohulia
 <br>
 GitHub: https://github.com/Tarasukk/Web
@@ -51,5 +48,4 @@ Holovko Uaroslav
 Github: https://github.com/Lowckick/WebProgrammingProject
 <br>
 Pull request: https://github.com/Lowckick/Immigration-Assistance-Application/pull/1
-
 <br>
