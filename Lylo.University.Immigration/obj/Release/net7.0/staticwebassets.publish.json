@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qQMlS9ytSDtZS21wuz2qnhFGEkN9T52EFOPfazTbH7c=",
+  "Hash": "I8sCtSF5aw9oNA26kJQ96Jm/3tecc6lm5HFKYPGVrNQ=",
   "Source": "Lylo.University.Immigration",
   "BasePath": "_content/Lylo.University.Immigration",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\images\\test.jpg",
+      "SourceId": "Lylo.University.Immigration",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\",
+      "BasePath": "_content/Lylo.University.Immigration",
+      "RelativePath": "images/test.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\test.jpg"
+    },
+    {
       "Identity": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\js\\app.js",
       "SourceId": "Lylo.University.Immigration",
       "SourceType": "Discovered",
@@ -1120,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\js\\script.js",
+      "SourceId": "Lylo.University.Immigration",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\",
+      "BasePath": "_content/Lylo.University.Immigration",
+      "RelativePath": "js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
       "Identity": "C:\\Users\\v_lyl\\source\\repos\\Immigration-Assistance-Application\\Lylo.University.Immigration\\wwwroot\\js\\site.js",

@@ -40,6 +40,30 @@
 
 @if (SignInManager.IsSignedIn(User))
 {
+    <div class="text-center">
+        <h2>Image Processing</h2>
+    </div>
+
+    <div class="image-upload-form">
+        <form method="post" action="/process-image" enctype="multipart/form-data">
+                
+            <div class="image-preview">
+                <img id="preview-image" src="#" alt="Image Preview" style="display: None;" />
+            </div>
+           
+            <div class="text-center">
+                <input type="file" name="imageFile" accept="image/*" onchange="previewImage(event)" />
+            </div>
+
+            <div class="text-center">
+                <br>
+                <button type="submit" class="submit-button">Process Image</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="~/js/script.js"></script>
+
     <div class="congrats">
         <span>C</span>
         <span>o</span>

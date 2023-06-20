@@ -4,8 +4,12 @@ C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.I
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Lylo.University.Immigration.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Lylo.University.Immigration.runtimeconfig.json
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Lylo.University.Immigration.pdb
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.AI.FormRecognizer.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.AI.TextAnalytics.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.Core.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.Identity.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Azure.Storage.Common.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Humanizer.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.ApplicationInsights.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.ApplicationInsights.AspNetCore.dll
@@ -21,6 +25,7 @@ C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.I
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Build.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Build.Framework.dll
@@ -64,6 +69,8 @@ C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.I
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.NET.StringTools.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.Rest.ClientRuntime.Azure.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -98,6 +105,7 @@ C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.I
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.Diagnostics.PerformanceCounter.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.Drawing.Common.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.IO.Hashing.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.Memory.Data.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.Reflection.MetadataLoadContext.dll
 C:\Users\v_lyl\source\repos\Immigration-Assistance-Application\Lylo.University.Immigration\obj\Release\net7.0\PubTmp\Out\System.Runtime.Caching.dll
