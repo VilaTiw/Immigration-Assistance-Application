@@ -38,7 +38,7 @@ Telegram https://t.me/VilaTiw
 ✔️ Readme with information (link to the project on Azure and link to Telegram)
 <br>
 
-What is done ✔️:
+Work during the semester:
 <br>
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
