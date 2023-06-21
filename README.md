@@ -31,7 +31,6 @@ Telegram https://t.me/VilaTiw
 
 
 ## Other requirements:
-<br>
 ✔️ Project deployment on Azure
 <br>
 ✔️ The code is stored on Github
