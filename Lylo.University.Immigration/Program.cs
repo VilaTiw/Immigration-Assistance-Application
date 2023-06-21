@@ -11,12 +11,10 @@ using Microsoft.AspNetCore.Http;
 using System.IO;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Azure.AI.FormRecognizer;
-using Azure;
 using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
 using Lylo.University.Immigration;
 using System.Net.Http;
-using Microsoft.Rest;
+
 
 
 var builder = WebApplication.CreateBuilder(args);
