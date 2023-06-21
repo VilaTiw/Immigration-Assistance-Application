@@ -10,8 +10,35 @@ This project uses the following resources: SQL Database, Azure App Service, Appl
 Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/ 
 <br>
 Telegram https://t.me/VilaTiw
+<br>
 
-What is done ✔️:
+## Technical requirements:
+✔️ Swagger UI
+<br>
+✔️ Google authorization
+<br>
+✔️ Entity Framework
+<br>
+✔️ MS SQL
+<br>
+✔️ Dependency Injection
+<br>
+✔️ ExchangeRate-API
+<br>
+✔️ Data Processing Algorithm: Image Processing with Azure Computer Vision
+<br>
+✔️ Application Insights
+
+
+## Other requirements:
+✔️ Project deployment on Azure
+<br>
+✔️ The code is stored on Github
+<br>
+✔️ Readme with information (link to the project on Azure and link to Telegram)
+<br>
+
+## Work during the semester:
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
 - Connected the database
@@ -44,7 +71,6 @@ Pull request:https://github.com/Tarasukk/Immigration-Assistance-Application/pull
 <br>
 
 ## Lab 4:
-<br>
 Holovko Uaroslav
 <br>
 Github: https://github.com/Lowckick/WebProgrammingProject
