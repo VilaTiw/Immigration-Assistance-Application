@@ -7,7 +7,9 @@ This project aims to help people with immigration. Provide political protection 
 To run a project, you need to first download its files, via a zip folder, or clone the repository to your development environment using a repository link. You need to make sure you have .net 7 installed which is used in this project. If you don't have it, or it's a lower version, you can download it here - https://dotnet.microsoft.com/en-us/download/dotnet/7.0. If you've downloaded .net 7 but still can't run the project, it might be a problem with the development environment you're using, try updating it to the latest version.
 This project uses the following resources: SQL Database, Azure App Service, Application Insights and Azure Computer Vision.
 
-Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/
+Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/ 
+<br>
+Telegram https://t.me/VilaTiw
 
 What is done ✔️:
 - Сreated Solution
