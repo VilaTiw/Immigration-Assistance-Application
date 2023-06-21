@@ -19,6 +19,7 @@ Technical requirements:
 
 
 What is done ✔️:
+<br>
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
 - Connected the database
