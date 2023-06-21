@@ -3,7 +3,22 @@
     "mssql2": {
       "restored": true,
       "restoreTime": "2023-04-19T21:27:54.5853288Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-06-21T11:11:08.583958Z"
     }
   },
-  "parameters": {}
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Helper"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "a5900f6b-5a82-4d8f-85f1-d01eb231d947"
+    }
+  }
 }

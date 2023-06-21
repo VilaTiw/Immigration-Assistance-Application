@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-Lylo.University.Immigration-e8489407-9382-46d8-8194-2453171a6661</UserSecretsId>
-    <ApplicationInsightsResourceId>/subscriptions/ec2af6ff-8446-4517-b1a7-ae46f6df7a99/resourceGroups/immigration-assistance-application_group/providers/microsoft.insights/components/immigration-assistance-application</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/a5900f6b-5a82-4d8f-85f1-d01eb231d947/resourceGroups/Helper/providers/microsoft.insights/components/Immigration-Assistance-Application2</ApplicationInsightsResourceId>
     <ApplicationIcon>favicon.ico</ApplicationIcon>
   </PropertyGroup>
 
