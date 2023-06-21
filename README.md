@@ -12,6 +12,7 @@ Deployed project on Azure: http://immigration-assistance-application2.azurewebsi
 Telegram https://t.me/VilaTiw
 <br>
 Technical requirements:
+<br>
 ✔️ Swagger UI
 ✔️ Google authorization
 ✔️ Entity Framework
