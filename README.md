@@ -14,10 +14,29 @@ Telegram https://t.me/VilaTiw
 Technical requirements:
 <br>
 ✔️ Swagger UI
+<br>
 ✔️ Google authorization
+<br>
 ✔️ Entity Framework
+<br>
 ✔️ MS SQL
-
+<br>
+✔️ Dependency Injection
+<br>
+✔️ ExchangeRate-API
+<br>
+✔️ Data Processing Algorithm: Image Processing with Azure Computer Vision
+<br>
+✔️ Application Insights
+<br>
+Other requirements:
+<br>
+✔️ Project deployment on Azure
+<br>
+✔️ The code is stored on Github
+<br>
+✔️ Readme with information (link to the project on Azure and link to Telegram)
+<br>
 
 What is done ✔️:
 <br>
