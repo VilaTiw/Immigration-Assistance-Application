@@ -8,6 +8,7 @@ To run a project, you need to first download its files, via a zip folder, or clo
 This project uses the following resources: SQL Database, Azure App Service, Application Insights and Azure Computer Vision.
 
 Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/
+Telegram https://t.me/VilaTiw
 
 What is done ✔️:
 - Сreated Solution
