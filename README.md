@@ -13,7 +13,6 @@ Telegram https://t.me/VilaTiw
 <br>
 
 ## Technical requirements:
-<br>
 ✔️ Swagger UI
 <br>
 ✔️ Google authorization
@@ -29,7 +28,8 @@ Telegram https://t.me/VilaTiw
 ✔️ Data Processing Algorithm: Image Processing with Azure Computer Vision
 <br>
 ✔️ Application Insights
-<br>
+
+
 ## Other requirements:
 <br>
 ✔️ Project deployment on Azure
