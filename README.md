@@ -10,7 +10,14 @@ This project uses the following resources: SQL Database, Azure App Service, Appl
 Deployed project on Azure: http://immigration-assistance-application2.azurewebsites.net/ 
 <br>
 Telegram https://t.me/VilaTiw
+<br>
+Technical requirements:
+✔️ Swagger UI
+✔️ Google authorization
+✔️ Entity Framework
+✔️ MS SQL
 
+<br>
 What is done ✔️:
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
