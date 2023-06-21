@@ -17,7 +17,7 @@ Technical requirements:
 ✔️ Entity Framework
 ✔️ MS SQL
 
-<br>
+
 What is done ✔️:
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
