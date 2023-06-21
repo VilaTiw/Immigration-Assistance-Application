@@ -39,7 +39,6 @@ Telegram https://t.me/VilaTiw
 <br>
 
 ## Work during the semester:
-<br>
 - Сreated Solution
 - Сreated SQL Database and AppService on Azure
 - Connected the database
