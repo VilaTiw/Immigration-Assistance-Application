@@ -11,7 +11,8 @@ Deployed project on Azure: http://immigration-assistance-application2.azurewebsi
 <br>
 Telegram https://t.me/VilaTiw
 <br>
-Technical requirements:
+
+## Technical requirements:
 <br>
 ✔️ Swagger UI
 <br>
@@ -29,7 +30,7 @@ Technical requirements:
 <br>
 ✔️ Application Insights
 <br>
-Other requirements:
+## Other requirements:
 <br>
 ✔️ Project deployment on Azure
 <br>
